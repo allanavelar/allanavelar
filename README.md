@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/allanavelar">
-  <img height="202em" src="https://github-readme-stats.vercel.app/api?username=allanavelar&include_all_commits=true&count_private=true&hide_rank=false&&show_icons=true&theme=github_dark"/>
+  <img height="202em" src="https://github-readme-stats.vercel.app/api?username=allanavelar&count_private=true&show_icons=true&theme=github_dark"/>
   <img height="202em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanavelar&layout=compact&langs_count=10&theme=github_dark&hide=html,scss"/>
 </div>
 
@@ -32,12 +32,12 @@
 <div>
   <a href="https://site.allanavelar.com/br/" target="_blank">
     <img src="https://img.shields.io/website?style=for-the-badge&down_color=red&down_message=allanavelar.offline&up_color=f0db4f&up_message=allanavelar.com&url=https%3A%2F%2Fsite.allanavelar.com%2Fbr%2F" target="_blank"></a>
-  <a href="mailto:contato@allanavelar.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/allanavelar" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/allanavelar" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23dd1b16?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:contato@allanavelar.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/allanavelar/allanavelar/blob/readme-snake/github-contribution-grid-snake.svg)
   

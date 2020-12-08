@@ -1,4 +1,4 @@
-name: github-readme-snake
+name: contribution-snake
 
 on:
   schedule: # execute every 12 hours
@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: allanavelar
           svg_out_path: dist/github-contribution-grid-snake.svg
-          drawOpts: "{\"colorSnake\":\"#fdbe04\",\"dark\":{\"colorDots\":{\"1\":\"#023d4c\",\"2\":\"#044d5a\",\"3\":\"#147e8b\",\"4\":\"#00cff5\"}}}"
+          drawOpts: "{\"colorSnake\":\"#fdbe04\",\"dark\":{\"colorEmpty\":\"#01242B\",\"colorDots\":{\"1\":\"#014451\",\"2\":\"#016173\",\"3\":\"#01A1BF\",\"4\":\"#02D1F7\"}}}"
 
       - uses: avnsystems/action-github-pages@v2.5.0
         with:
